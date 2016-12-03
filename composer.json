@@ -1,0 +1,12 @@
+{
+    "name": "New-Paper/Nirmal",
+    "description": "New Paper Theme",
+    "keywords": ["Magazine", "Paper", "Blog"],
+    "license": "MIT",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Paper\\": "includes/"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+.wpb_content_element {
+    border: dotted 1px #ccc !important;
+}
+
+.type-radio-image .option-tree-ui-radio-images img.option-tree-ui-radio-image-selected {
+    border: solid 2px #060606 !important;
+    padding: 4px;
+    box-sizing: border-box;
+    opacity: 1 !important;
+    box-shadow: 0 3px 8px rgb(164, 137, 137) !important;
+}
+
+.ot-metabox-tabs.ui-tabs .ot-metabox-nav.ui-tabs-nav li.ui-state-active {
+    border-bottom: solid 2px #cccccc !important;
+}
+
+.wp-person a:focus .gravatar, a:focus, a:focus .media-icon img {
+    box-shadow: none;
+}
