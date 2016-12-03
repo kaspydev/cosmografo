@@ -1,0 +1,23 @@
+.post-type-kansas .post-content .post-title {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 34px;
+    margin-bottom: 12px;
+    /* word-wrap: break-word; */
+    /* word-break: break-all; */
+}
+
+.post-type-kansas .post-content {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 20px;
+    background-color: rgba(0,0,0,.3);
+}
+
+
+.class {
+	position: absolute;
+}
+
